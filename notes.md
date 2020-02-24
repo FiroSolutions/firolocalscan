@@ -14,3 +14,4 @@ yum list installed
 
 ## Gento
 
+## Freebsd
