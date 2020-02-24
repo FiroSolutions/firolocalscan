@@ -7,11 +7,12 @@ apt list --installed
 pkg_info -mz
 
 
-## centos  
+## Centos and Redhat
 yum list installed
 
-## Redhat
 
 ## Gento
 
+
 ## Freebsd
+pkg info
