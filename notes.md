@@ -12,7 +12,7 @@ yum list installed
 
 
 ## Gento
-
+emerge -ep @word
 
 ## Freebsd
 pkg info
